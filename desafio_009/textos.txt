@@ -1,0 +1,9 @@
+	Provalvamente você sabe que o sistema operacional ANDROID, mantido pelo GOOGLE é um dos 
+mais utilizadospara dispostivos móveis em todo o mundo. Mas talvez você não saiba que o seu
+simpático mascote tem um nome e uma história muito curiosa? Pos acompanhe esse artigo para
+aprender muitas coisas sobre esse robozinho.
+
+	A primeira tentativa de cria um mascote surgiu em 2007 e veio de um desenvolver chamado
+DAN MORRILL(emoji). Ele conta que abriu o ÍNKSCAPE(emoji) (software livre para vetorização de imagens) e
+criou sua própria versão de robô. O objetivo era apenas personificar o sistema apenas para a sua 
+equipe, não existia nenhuma solicitação da empresa para a criação de um mascote.
