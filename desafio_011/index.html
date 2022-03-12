@@ -8,15 +8,30 @@
     <style>
         body{
             background-image: url("imegens/espaco.jpg");
-        }
-        div{
             
+        }
+        div{ 
+            
+            max-width: 50%;
+            margin: auto;
+        }
+        img{
+            width: 78%;
+            height: auto;
+            margin: auto;
+        }
+        picture{
+            width: 100%;
         }
     </style>
 </head>
 <body>
-    <div>
-        <img src="imegens/astronauta.png" alt="astronauta">
+    <div class="imagem">
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloribus deserunt pariatur labore fugiat quod libero omnis id facilis! Qui enim soluta excepturi illum voluptatem libero pariatur laboriosam cumque obcaecati praesentium.</p>
+        <picture>
+            <source media="(max-width: 700px )" srcset="astronautaCopia.png" type="png">
+            <img src="imegens/astronauta.png" alt="astronauta">
+        </picture>
     </div>
     
 </body>
